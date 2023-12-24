@@ -1,0 +1,37 @@
+*{
+     box-sizing: border-box;
+     margin:0;
+     padding: 0;
+     font-family: 'Times New Roman', Times, serif;
+}
+.hero{
+    width:100%;
+    background:violet;
+    color: white;
+    height: 100%;
+    text-align: center;
+}
+body{
+   padding-top: 250px;
+    height: 100px;
+    background-color: violet;
+}
+.but{
+    background-color: blue;
+    color: white;
+    font-size: large;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+
+}
+.randomnum{
+    position: absolute;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 370px;
+    width:400px;
+    background-color:rgb(92, 8, 92);
+    transform: translate(600px,0px);
+}
